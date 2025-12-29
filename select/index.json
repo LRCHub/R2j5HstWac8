@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Anguish",
+  "base_artist": "Odd",
+  "createdAt": "2025-12-29T02:21:39.530781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anguish and Fear",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": true,
+      "path": "select/01_Anguish_and_Fear_Yngwie_J._Malmsteen’s_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anguish of Youth",
+      "artist": "Iced Earth",
+      "has_synced": true,
+      "path": "select/02_Anguish_of_Youth_Iced_Earth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wave Of Anguish",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/03_Wave_Of_Anguish_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wave Of Anguish",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/04_Wave_Of_Anguish_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fear and Anguish",
+      "artist": "Aurelio Voltaire",
+      "has_synced": false,
+      "path": "select/05_Fear_and_Anguish_Aurelio_Voltaire.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Screams of Anguish",
+      "artist": "Brutality",
+      "has_synced": true,
+      "path": "select/06_Screams_of_Anguish_Brutality.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Eternal Grief, Anguish Neverending",
+      "artist": "Nargaroth",
+      "has_synced": true,
+      "path": "select/07_My_Eternal_Grief,_Anguish_Neverending_Nargaroth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dawn of Anguish",
+      "artist": "Les Misérables - International Cast",
+      "has_synced": true,
+      "path": "select/08_Dawn_of_Anguish_Les_Misérables_-_International_Cast.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Night of Anguish",
+      "artist": "Les Misérables - International Cast",
+      "has_synced": true,
+      "path": "select/09_Night_of_Anguish_Les_Misérables_-_International_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anguish",
+      "artist": "Into the Moat",
+      "has_synced": false,
+      "path": "select/10_Anguish_Into_the_Moat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prey To Anguish",
+      "artist": "Neaera",
+      "has_synced": false,
+      "path": "select/11_Prey_To_Anguish_Neaera.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eyes of Anguish",
+      "artist": "Homewrecker",
+      "has_synced": false,
+      "path": "select/12_Eyes_of_Anguish_Homewrecker.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anguish",
+      "artist": "Never Ending Game",
+      "has_synced": false,
+      "path": "select/13_Anguish_Never_Ending_Game.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Doctor's Anguish",
+      "artist": "Friends In Time",
+      "has_synced": true,
+      "path": "select/14_Doctor's_Anguish_Friends_In_Time.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anguish",
+      "artist": "Odd",
+      "has_synced": false,
+      "path": "select/pl_01_Anguish_Odd.txt"
+    }
+  ]
+}
